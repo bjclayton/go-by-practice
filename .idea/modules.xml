@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/go_tuto.iml" filepath="$PROJECT_DIR$/go_tuto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http.iml" filepath="$PROJECT_DIR$/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces.iml" filepath="$PROJECT_DIR$/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/maps.iml" filepath="$PROJECT_DIR$/maps.iml" />
       <module fileurl="file://$PROJECT_DIR$/structs.iml" filepath="$PROJECT_DIR$/structs.iml" />
     </modules>
